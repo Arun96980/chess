@@ -4,3 +4,4 @@ export const GAME_OVER = 'game_over';
 export const ERROR = 'ERROR';
 
 // testing revert 
+export const REVERT_MOVE = 'revert_move';
